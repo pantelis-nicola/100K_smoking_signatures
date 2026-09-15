@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Temporal and Quantitative Analysis of Smoking Mutational
+  Signatures Supports Early Abstinence in Non-Small Cell
+  Lung Carcinoma
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Laura
+    family-names: Woodhouse
+    email: laura.woodhouse@manchester.ac.uk
+    affiliation: University of Manchester
+    name-particle: C
+  - given-names: Pantelis
+    name-particle: A
+    family-names: Nicola
+    email: pantelis.nicola@manchester.ac.uk
+    affiliation: University of Manchester
+    orcid: 'https://orcid.org/0000-0002-8641-3580'
+repository-code: 'https://github.com/pantelis-nicola/100K_smoking_signatures'
+abstract: >-
+  Code accompanying manuscript titled Temporal and
+  Quantitative Analysis of Smoking Mutational Signatures
+  Supports Early Abstinence in Non-Small Cell Lung Carcinoma
+  by Woodhouse et al., (2026)
