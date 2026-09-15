@@ -11,13 +11,11 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Laura
+  - given-names: Laura C
     family-names: Woodhouse
     email: laura.woodhouse@manchester.ac.uk
     affiliation: University of Manchester
-    name-particle: C
-  - given-names: Pantelis
-    name-particle: A
+  - given-names: Pantelis A
     family-names: Nicola
     email: pantelis.nicola@manchester.ac.uk
     affiliation: University of Manchester
